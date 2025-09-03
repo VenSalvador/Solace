@@ -1,0 +1,138 @@
+Solace (Comfort & Calm)
+
+Primary: Soft Blue (#7FB5D6) – calm, safe
+
+Secondary: Lavender (#C7B9E5) – gentle healing
+
+Accent: Warm Beige (#F6E6D8) – human warmth
+
+Neutral: Soft Gray (#EAEAEA) – balance
+
+✅ This palette feels like a quiet evening sky — soothing and empathetic.
+
+Core Pages for the Companion App
+1. Welcome & Onboarding
+
+Welcome Screen → soft intro, explains the app is a safe space.
+
+Onboarding Flow → asks gently:
+
+“Are you here for grief support, anxiety support, or just gentle comfort?”
+
+Option to personalize with name, loved one’s name, or skip.
+
+Permissions (optional) → notifications for daily messages.
+
+2. Home / Dashboard
+
+Shows today’s comfort message (based on grief/anxiety stage).
+
+Quick access buttons:
+
+✍️ Journal
+
+💬 Check-in
+
+🎧 Soothing Tools
+
+📚 Resources
+
+3. Daily Comfort Messages
+
+Page showing today’s reflection/affirmation.
+
+Option to “see past messages” (archive).
+
+4. Emotional Check-in
+
+User picks how they feel (emoji/mood options).
+
+Optional free-text input.
+
+Tailored empathetic response appears immediately.
+
+5. Journal
+
+Private journaling space.
+
+Features:
+
+Text entries
+
+Add photos/voice notes
+
+Optional prompts (stage- or anxiety-based)
+
+Secure & encrypted
+
+6. Soothing Tools
+
+Breathing exercise (animated circle).
+
+Guided meditations (short 2–5 min).
+
+Calming audio (rain, ocean, soft music).
+
+Emergency “Calm Me Now” button for anxiety attacks.
+
+7. Memories / Remembrance (for Grief path)
+
+Upload photo, note, or voice recording about loved one.
+
+Optional “Memory Capsule” (saved stories).
+
+Gentle reminders on anniversaries.
+
+8. Progress & Reflections (Optional)
+
+Emotional patterns over time (soft graph or timeline).
+
+Reflection like: “You’ve been feeling calmer more often recently.”
+
+⚠️ No “gamification” — keep it gentle, not achievement-based.
+
+9. Resources & Support
+
+Crisis hotlines (grief, mental health, suicide prevention).
+
+Links to professional support/counseling.
+
+Optional peer community (anonymous, safe).
+
+10. Settings
+
+Personalization (name, loved one’s name, reminders).
+
+Manage notifications.
+
+Privacy & security.
+
+Option to switch focus (Grief ↔ Anxiety).
+
+🌟 Optional “Nice to Have” Pages
+
+Daily Rituals → suggestions (light a candle, write a letter, take a walk).
+
+Affirmation Library → browse comforting quotes.
+
+Custom Spaces → like a private “room” decorated with their memories.
+
+This is my color palette
+Primary: Soft Blue (#7FB5D6) – calm, safe
+
+Secondary: Lavender (#C7B9E5) – gentle healing
+
+Accent: Warm Beige (#F6E6D8) – human warmth
+
+Neutral: Soft Gray (#EAEAEA) – balance
+
+I want to create the Welcome screen first. Something like the photo. 
+Welcome Screen → soft intro, explains the app is a safe space.
+
+Onboarding Flow → asks gently:
+
+“Are you here for grief support, anxiety support, or just gentle comfort?”
+
+Option to personalize with name, loved one’s name, or skip.
+
+Permissions (optional) → notifications for daily messages.
