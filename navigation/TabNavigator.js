@@ -5,7 +5,6 @@ import HomeScreen from "../screens/HomeScreen";
 import ComfortScreen from "../screens/ComfortScreen";
 import RelaxScreen from "../screens/RelaxScreen";
 import SupportScreen from "../screens/SupportScreen";
-import WelcomeScreen from "../screens/WelcomeScreen";
 
 const Tab = createBottomTabNavigator();
 
@@ -16,7 +15,6 @@ export default function TabNavigator() {
       <Tab.Screen name="Comfort" component={ComfortScreen} />
       <Tab.Screen name="Relax" component={RelaxScreen} />
       <Tab.Screen name="Support" component={SupportScreen} />
-      <Tab.Screen name="Welcome" component={WelcomeScreen} />
     </Tab.Navigator>
   );
 }

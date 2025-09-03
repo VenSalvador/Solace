@@ -1,18 +1,20 @@
 import React from "react";
 import { View, Text, TouchableOpacity, Image, StyleSheet } from "react-native";
+import { LinearGradient } from "expo-linear-gradient";
+
 
 export default function WelcomeScreen({ navigation }) {
   return (
-    <View style={styles.container}>
+    <LinearGradient
+      colors={["#7FB5D6", "#C7B9E5"]}
+      style={styles.container}
+    >
       {/* Logo */}
       <Image
-        source={require("../assets/logo.png")} // replace with your logo file
+        source={require("../assets/logo-white-text-transparent.png")}
         style={styles.logo}
         resizeMode="contain"
       />
-
-      {/* App Name */}
-      <Text style={styles.title}>Solace</Text>
 
       {/* Tagline */}
       <Text style={styles.subtitle}>
@@ -33,9 +35,10 @@ export default function WelcomeScreen({ navigation }) {
       >
         <Text style={styles.secondaryButtonText}>Log In / Sign Up</Text>
       </TouchableOpacity>
-    </View>
+    </LinearGradient>
   );
 }
+
 
 const styles = StyleSheet.create({
   container: {
@@ -43,18 +46,11 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     padding: 20,
-    backgroundColor: "linear-gradient(180deg, #7FB5D6, #C7B9E5)", // background gradient
   },
   logo: {
-    width: 100,
-    height: 100,
+    width: 400,
+    height: 400,
     marginBottom: 20,
-  },
-  title: {
-    fontSize: 28,
-    fontWeight: "bold",
-    color: "#fff",
-    marginBottom: 10,
   },
   subtitle: {
     fontSize: 16,
