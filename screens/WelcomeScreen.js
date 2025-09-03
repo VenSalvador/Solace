@@ -31,7 +31,7 @@ export default function WelcomeScreen({ navigation }) {
 
       <TouchableOpacity
         style={styles.secondaryButton}
-        onPress={() => alert("Login / Sign Up flow coming soon!")}
+        onPress={() => navigation.navigate("Login")}
       >
         <Text style={styles.secondaryButtonText}>Log In / Sign Up</Text>
       </TouchableOpacity>
